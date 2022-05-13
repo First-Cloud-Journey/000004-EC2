@@ -1,0 +1,20 @@
+INSERT INTO `user` 
+(`id`, `first_name`,  `last_name`,    `email`,                 `phone`,         `comments`, `status`) VALUES
+(NULL, 'Amanda',      'Nunes',        'anunes@ufc.com',        '012345 678910', 'I love AWS FCJ',          'active'),
+(NULL, 'Alexander',   'Volkanovski',  'avolkanovski@ufc.com',  '012345 678910', 'I love AWS FCJ',          'active'),
+(NULL, 'Khabib',      'Nurmagomedov', 'knurmagomedov@ufc.com', '012345 678910', 'I love AWS FCJ',          'active'),
+(NULL, 'Kamaru',      'Usman',        'kusman@ufc.com',        '012345 678910', 'I love AWS FCJ',          'active'),
+(NULL, 'Israel',      'Adesanya',     'iadesanya@ufc.com',     '012345 678910', 'I love AWS FCJ',          'active'),
+(NULL, 'Henry',       'Cejudo',       'hcejudo@ufc.com',       '012345 678910', 'I love AWS FCJ',          'active'),
+(NULL, 'Valentina',   'Shevchenko',   'vshevchenko@ufc.com',   '012345 678910', 'I love AWS FCJ',          'active'),
+(NULL, 'Tyron',       'Woodley',      'twoodley@ufc.com',      '012345 678910', 'I love AWS FCJ',          'active'),
+(NULL, 'Rose',        'Namajunas ',   'rnamajunas@ufc.com',    '012345 678910', 'I love AWS FCJ',          'active'),
+(NULL, 'Tony',        'Ferguson ',    'tferguson@ufc.com',     '012345 678910', 'I love AWS FCJ',          'active'),
+(NULL, 'Jorge',       'Masvidal ',    'jmasvidal@ufc.com',     '012345 678910', 'I love AWS FCJ',          'active'),
+(NULL, 'Nate',        'Diaz ',        'ndiaz@ufc.com',         '012345 678910', 'I love AWS FCJ',          'active'),
+(NULL, 'Conor',       'McGregor ',    'cmcGregor@ufc.com',     '012345 678910', 'I love AWS FCJ',          'active'),
+(NULL, 'Cris',        'Cyborg ',      'ccyborg@ufc.com',       '012345 678910', 'I love AWS FCJ',          'active'),
+(NULL, 'Tecia',       'Torres ',      'ttorres@ufc.com',       '012345 678910', 'I love AWS FCJ',          'active'),
+(NULL, 'Ronda',       'Rousey ',      'rrousey@ufc.com',       '012345 678910', 'I love AWS FCJ',          'active'),
+(NULL, 'Holly',       'Holm ',        'hholm@ufc.com',         '012345 678910', 'I love AWS FCJ',          'active'),
+(NULL, 'Joanna',      'Jedrzejczyk ', 'jjedrzejczyk@ufc.com',  '012345 678910', 'I love AWS FCJ',          'active')
